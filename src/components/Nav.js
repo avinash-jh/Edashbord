@@ -29,7 +29,7 @@ export default function () {
             :<ul className='nav-ul '>
                           <img className='logo' src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png" />
               <ul className='nav-ul lg2 '>
-              <li > <NavLink to='/signup'>SignUp</NavLink></li> 
+              <li > <NavLink to='/signup'>SignUp1</NavLink></li> 
                <li ><NavLink to='/login'>Login</NavLink></li></ul>
                
               </ul>
